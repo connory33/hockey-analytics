@@ -1,1 +1,1 @@
-# hockey-analytics
+# nhl_api_scraper
